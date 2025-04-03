@@ -12,8 +12,11 @@ TaskManager is an Android application designed to help users manage their tasks 
 ## Screenshots
 
 ![Screenshot_20250403_154833](https://github.com/user-attachments/assets/cda0723e-e7df-4b50-a000-7e46a8b99b77)
+
 ![Screenshot_20250403_154824](https://github.com/user-attachments/assets/37c69add-f529-41cd-b57d-3bcb5d5c7698)
+
 ![Screenshot_20250403_154816](https://github.com/user-attachments/assets/7861a8c1-3f9f-4431-a26c-737ed9264265)
+
 ![Screenshot_20250403_154801](https://github.com/user-attachments/assets/92bf1f7b-3a3d-474b-893a-6b6f00468f1d)
 
 
